@@ -28,5 +28,5 @@ try:
         print('\n To reach:' + str(in_min) + ' ' 'minutes to reach from' + " " + from_ + " " + 'to' +" "+ to)
     
 except:
-    print('Cant execute program something went wrong!!')
+    print('something went wrong!!')
     
