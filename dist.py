@@ -1,4 +1,4 @@
-# distance calculator program
+# distance and time calculator program
 from numerizer import numerize
 
 print('\nTime calculater constant(300000 km/s)')
